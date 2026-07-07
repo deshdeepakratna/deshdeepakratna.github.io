@@ -21,6 +21,96 @@ I am a Postdoctoral Research Fellow in the Francis Laboratory at the University 
 My work combines electrophysiology, fiber photometry, behavioral neuroscience, viral circuit approaches, and quantitative analysis to understand the cellular and circuit mechanisms underlying stress-related neuropsychiatric disorders.
 
 
+## Research Highlights
+
+## About
+
+...your about paragraphs...
+
+---
+
+## Research Highlights
+
+<div class="gif-gallery">
+
+<figure class="gif-card">
+
+<img src="/images/highlights/patchclamp.png"
+data-hover="/images/highlights/patch.gif"
+alt="Whole-cell electrophysiology">
+
+<figcaption>
+Whole-cell Electrophysiology
+</figcaption>
+
+</figure>
+
+<figure class="gif-card">
+
+<img src="/images/highlights/fiberphotometry.png"
+data-hover="/images/highlights/photometry.gif"
+alt="Fiber photometry">
+
+<figcaption>
+Fiber Photometry
+</figcaption>
+
+</figure>
+
+<figure class="gif-card">
+
+<img src="/images/highlights/confocal.png"
+data-hover="/images/highlights/confocal.gif"
+alt="Confocal imaging">
+
+<figcaption>
+Confocal Imaging
+</figcaption>
+
+</figure>
+
+<figure class="gif-card">
+
+<img src="/images/highlights/behavior.png"
+data-hover="/images/highlights/behavior.gif"
+alt="Behavior">
+
+<figcaption>
+Behavior Analysis
+</figcaption>
+
+</figure>
+
+<figure class="gif-card">
+
+<img src="/images/highlights/deeplabcut.png"
+data-hover="/images/highlights/deeplabcut.gif"
+alt="DeepLabCut">
+
+<figcaption>
+DeepLabCut Tracking
+</figcaption>
+
+</figure>
+
+<figure class="gif-card">
+
+<img src="/images/highlights/keypointmoseq.png"
+data-hover="/images/highlights/analysis.gif"
+alt="Analysis">
+
+<figcaption>
+Motion sequencing (Keypoint MoSeq)
+</figcaption>
+
+</figure>
+
+</div>
+
+---
+
+## Research Interests
+
 ## Research Interests
 
  - Stress neurobiology

@@ -9,9 +9,54 @@
 .page__content h2 {
     margin-top: 3rem;
     margin-bottom: 1rem;
-    padding-bottom: .4rem;
+    padding-bottom: 0.4rem;
     border-bottom: 2px solid #ececec;
 }
+
+
+/* ==========================================
+   Research Highlights Gallery
+========================================== */
+
+.gif-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 24px;
+    margin: 2rem 0;
+}
+
+.gif-card {
+    margin: 0;
+    text-align: center;
+}
+
+.gif-card img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+
+    padding: 6px;
+    background: #fafafa;
+
+    border-radius: 8px;
+
+    transition: transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.gif-card img:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, .08);
+}
+
+.gif-card figcaption {
+    margin-top: 0.75rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    line-height: 1.4;
+    color: #555;
+}
+
 
 /* ==========================================
    Mobile
@@ -19,10 +64,9 @@
 
 @media (max-width:900px) {
 
-    .research-grid {
-
+    .gif-gallery {
         grid-template-columns: 1fr;
-
+        gap: 20px;
     }
 
 }
