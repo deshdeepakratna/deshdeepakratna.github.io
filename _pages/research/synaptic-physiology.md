@@ -4,8 +4,6 @@ permalink: /research/synaptic-physiology/
 author_profile: true
 ---
 
-# Synaptic Physiology
-
 ## Scientific Question
 
 How do stressful experiences alter neuronal excitability and synaptic transmission?

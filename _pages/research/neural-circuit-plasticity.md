@@ -4,8 +4,6 @@ permalink: /research/neural-circuit-plasticity/
 author_profile: true
 ---
 
-# Neural Circuit Plasticity
-
 ## Scientific Question
 
 How does stress reshape neural circuits that regulate motivation, reward, and emotional behavior?
