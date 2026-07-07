@@ -11,7 +11,7 @@ Francis Laboratory<br>
 University of Maryland School of Medicine
 
 
-# "Understanding how stressful experiences reshape synaptic function and neural circuits to influence behavior."
+## "Understanding how stressful experiences reshape synaptic function and neural circuits to influence behavior."
 
 
 ## Research Overview
