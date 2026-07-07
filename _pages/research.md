@@ -4,8 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
 My research seeks to understand how stressful experiences reshape neural circuits that regulate motivation, reward, and emotional behavior. By integrating cellular electrophysiology, systems neuroscience, and computational approaches, I investigate the mechanisms through which stress alters brain function and contributes to neuropsychiatric disorders.
 
 Current research in the laboratory is organized around three interconnected themes.
