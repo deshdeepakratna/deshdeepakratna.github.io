@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome
+## Welcome 
 
 I am a Postdoctoral Research Fellow in the Francis Laboratory within the Department of Psychiatry at the University of Maryland School of Medicine. My research seeks to understand how stress reshapes neural circuits that regulate motivation, reward, and emotional behavior through changes in synaptic function and neuronal excitability.
 
