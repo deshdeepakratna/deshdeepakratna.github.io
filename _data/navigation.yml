@@ -20,8 +20,8 @@ main:
   - title: "Resources"
     url: /resoruces/    
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Open-science"
+    url: /open-science/    
     
   #- title: "Portfolio"
   #  url: /portfolio/

@@ -1,4 +1,8 @@
-# Resources
+---
+title: "Resources"
+permalink: /resources/
+author_profile: true
+---
 
 A collection of laboratory resources, tutorials, and computational workflows for neuroscience research.
 
