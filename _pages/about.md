@@ -9,9 +9,12 @@ redirect_from:
 Postdoctoral Research Fellow<br>
 Francis Laboratory<br>
 University of Maryland School of Medicine
+---
+
 
 
  Understanding how stress reshapes neural circuits and behavior
+
 
 
 ## About
@@ -25,9 +28,6 @@ My work combines electrophysiology, fiber photometry, behavioral neuroscience, v
 
 {% include custom/research_gallery.html %}
 
----
-
-## Research Interests
 
 ## Research Interests
 
@@ -42,7 +42,6 @@ My work combines electrophysiology, fiber photometry, behavioral neuroscience, v
 
 **Computational tools and programs:** Python, Bonsai, DeepLabCut, Keypoint MoSeq.
 
----
 
 ## Selected Publications
 
