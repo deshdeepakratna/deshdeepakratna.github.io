@@ -57,6 +57,10 @@ My long-term goal is to bridge molecular signaling, synaptic physiology, and neu
 
 ---
 
+{% include custom/featured_publications.html %}
+
+---
+
 ## Current Research Directions
 
 - Stress-induced synaptic plasticity in basal ganglia circuits
