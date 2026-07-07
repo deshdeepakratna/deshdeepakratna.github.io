@@ -10,7 +10,7 @@ Current research in the laboratory is organized around three interconnected them
 
 ---
 
-## Neural Circuit Plasticity
+## [Neural Circuit Plasticity](/research/neural-circuit-plasticity/)
 
 Understanding how stressful experiences remodel neural circuits and alter motivated behavior.
 
@@ -21,11 +21,11 @@ Understanding how stressful experiences remodel neural circuits and alter motiva
 - Reward circuitry
 - Motivation and emotional behavior
 
-➡ *Learn More*
+➡ **[Learn More →](/research/neural-circuit-plasticity/)**
 
 ---
 
-## Synaptic Physiology
+## [Synaptic Physiology](/research/synaptic-physiology/)
 
 Investigating how stress changes neuronal excitability and synaptic function.
 
@@ -36,7 +36,7 @@ Investigating how stress changes neuronal excitability and synaptic function.
 - Synaptic plasticity
 - Cellular physiology
 
-➡ *Learn More*
+➡ **[Learn More →](/research/synaptic-physiology/)**
 
 ---
 
