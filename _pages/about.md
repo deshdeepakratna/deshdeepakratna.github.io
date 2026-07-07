@@ -6,72 +6,49 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Postdoctoral Research Fellow
-Francis Laboratory
+Postdoctoral Research Fellow<br>
+Francis Laboratory<br>
 University of Maryland School of Medicine
 
-## Research Overview 
 
-I am a Postdoctoral Research Fellow in the Francis Laboratory within the Department of Psychiatry at the University of Maryland School of Medicine. My research seeks to understand how stress reshapes neural circuits that regulate motivation, reward, and emotional behavior through changes in synaptic function and neuronal excitability.
+# "Understanding how stressful experiences reshape synaptic function and neural circuits to influence behavior."
 
-My long-term goal is to identify the cellular and synaptic mechanisms that contribute to stress-related neuropsychiatric disorders and to develop reproducible computational tools that accelerate neuroscience research.
 
----
+## Research Overview
 
-## Research Interests
+Stress profoundly alters neural circuits that govern motivation, reward, and emotional behavior, yet the cellular mechanisms underlying these adaptations remain poorly understood.
 
-- Stress Neurobiology
-- Neural Circuit Plasticity
-- Reward & Motivation
-- Whole-cell Patch Clamp Electrophysiology
-- Fiber Photometry
-- Open-source behavior tools (DeepLabCut, Keypoint MoSeq)
+As a **Postdoctoral Research Fellow** in the **Francis Laboratory**, I investigate how stressful experiences reshape synaptic function and neuronal excitability within striatal circuits. My research integrates **whole-cell electrophysiology**, **fiber photometry**, **viral circuit manipulation**, **quantitative microscopy**, and **computational neuroscience** to identify mechanisms that contribute to stress-related neuropsychiatric disorders.
 
----
-
-## Current Position
-
-**Postdoctoral Research Fellow**
-
-Francis Laboratory
-Department of Psychiatry
-University of Maryland School of Medicine
-Baltimore, Maryland, USA
+Beyond experimental neuroscience, I develop reproducible computational tools and open-source analysis pipelines that facilitate quantitative data analysis and improve research reproducibility.
 
 ---
 
 ## Research Vision
 
-My research aims to connect molecular signaling, synaptic physiology, and neural circuit function to understand how stress influences behavior and susceptibility to neuropsychiatric disorders. I am also interested in learning and combining experimental neuroscience with computational methods using open-source tools.
+My long-term goal is to bridge molecular signaling, synaptic physiology, and neural circuit dynamics to understand how stressful experiences influence behavior and vulnerability to neuropsychiatric disorders. Alongside experimental neuroscience, I develop reproducible computational tools and open-source analysis workflows.
 
 ---
 
-## Scientific Expertise
+## Research Interests
 
-### Experimental
+### Scientific Interests
 
-- Whole-cell patch clamp electrophysiology
+- Stress Neurobiology
+- Neural Circuit Plasticity
+- Reward & Motivation
+- Synaptic Physiology
+- Whole-cell Patch Clamp Electrophysiology
+- Fiber Photometry
+- Viral Circuit Manipulation
+- Open-source behavior tools (DeepLabCut, Keypoint MoSeq)
 
-- Fiber photometry
-
-- Viral circuit manipulation
-
-- Behavioral neuroscience
-
-- Confocal microscopy
-
-- Quantitative image analysis
-
-### Computational
+### Computational Expertise
 
 - Python
-
 - ImageJ/Fiji
-
-- Bonsai
-
 - DeepLabCut
-
+- Bonsai
 - Keypoint MoSeq
 
 ---
