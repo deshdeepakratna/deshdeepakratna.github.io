@@ -32,8 +32,21 @@ My work combines electrophysiology, fiber photometry, behavioral neuroscience, v
  - Viral circuit manipulation
  - Computational neuroscience
 
-**Computational tools:** Python, ImageJ/Fiji, Bonsai, DeepLabCut, Keypoint MoSeq.
+**Computational tools and programs:** Python, Bonsai, DeepLabCut, Keypoint MoSeq.
 
 ---
 
-{% include custom/featured_publications.html %}
+## Selected Publications
+
+<ul class="pub-list">
+  <li><a href="/publication/paper1/">Stress-induced remodeling of neural circuits.</a><br>
+      <small>Journal Name, 2026</small></li>
+
+  <li><a href="/publication/paper2/">REM sleep circuit regulation.</a><br>
+      <small>Journal Name, 2025</small></li>
+
+  <li><a href="/publication/paper3/">Open-source neuroscience analysis.</a><br>
+      <small>Journal Name, 2024</small></li>
+</ul>
+
+<p><a href="/publications/">View all publications →</a></p>
