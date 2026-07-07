@@ -24,7 +24,7 @@ I am a Postdoctoral Research Fellow in the Francis Laboratory at the University 
 My work combines electrophysiology, fiber photometry, behavioral neuroscience, viral circuit approaches, and quantitative analysis to understand the cellular and circuit mechanisms underlying stress-related neuropsychiatric disorders.
 
 
-## Research Highlights
+## Experimental Approaches
 
 {% include custom/research_gallery.html %}
 
@@ -35,9 +35,8 @@ My work combines electrophysiology, fiber photometry, behavioral neuroscience, v
  - Neural circuit plasticity
  - Reward and motivation
  - Synaptic physiology
- - Electrophysiology
- - Fiber photometry
- - Viral circuit manipulation
+ - Functional optcial imaging (GCaMP/GRAB sensors)
+ - Circuit manipulation (Optogenetic/DREADDs)
  - Computational neuroscience
 
 **Computational tools and programs:** Python, Bonsai, DeepLabCut, Keypoint MoSeq.
