@@ -18,9 +18,9 @@ main:
     url: /publications/
   
   - title: "Resources"
-    url: /resoruces/    
+    url: /resources/    
 
-  - title: "Open-science"
+  - title: "Open Science"
     url: /open-science/    
     
   #- title: "Portfolio"

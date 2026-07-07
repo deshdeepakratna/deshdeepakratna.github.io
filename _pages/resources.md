@@ -10,28 +10,18 @@ A collection of laboratory resources, tutorials, and computational workflows for
 
 ## Experimental Protocols
 
-Whole-cell electrophysiology
+### Whole-cell Patch Clamp Electrophysiology
 
-Fiber photometry
-
-Confocal microscopy
+Tutorials, solutions, and analysis workflows.
 
 ---
 
-## Analysis Tutorials
+### Fiber Photometry
 
-Python
-
-ImageJ
-
-GraphPad Prism
+Recording setup, preprocessing, ΔF/F normalization, event analysis.
 
 ---
 
-## Educational Material
+### Confocal Microscopy
 
-Recommended papers
-
-Tutorials
-
-Laboratory notes
+Image acquisition, fluorescence quantification, ImageJ workflows.
