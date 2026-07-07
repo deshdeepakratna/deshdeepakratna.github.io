@@ -23,14 +23,6 @@ My work combines electrophysiology, fiber photometry, behavioral neuroscience, v
 
 ## Research Highlights
 
-## About
-
-...your about paragraphs...
-
----
-
-## Research Highlights
-
 {% include custom/research_gallery.html %}
 
 ---
