@@ -9,11 +9,11 @@ redirect_from:
 Postdoctoral Research Fellow<br>
 Francis Laboratory<br>
 University of Maryland School of Medicine
----
 
 
 
- Understanding how stress reshapes neural circuits and behavior
+
+ --Understanding how stress reshapes neural circuits and behavior--
 
 
 
