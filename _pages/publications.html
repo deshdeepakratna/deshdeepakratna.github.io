@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-A complete list of publications is available below. An up-to-date record can also be found on [Google Scholar]({{
-site.author.googlescholar }}).
+A complete and up-to-date publication list is also available on [Google Scholar]({{ site.author.googlescholar }}).
 
----
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+{% include archive-single.html %}
+{% endfor %}
