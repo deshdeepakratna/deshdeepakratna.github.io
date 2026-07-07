@@ -30,6 +30,10 @@ My long-term goal is to bridge molecular signaling, synaptic physiology, and neu
 
 ---
 
+{% include custom/featured_research.html %}
+
+---
+
 ## Research Interests
 
 ### Scientific Interests
