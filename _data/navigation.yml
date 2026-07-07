@@ -11,8 +11,8 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+  #  url: /research/
 
   - title: "Publications"
     url: /publications/
@@ -20,8 +20,8 @@ main:
   - title: "Resources"
     url: /resoruces/    
 
-  - title: "Open-science"
-    url: /open-science/    
+  #- title: "Open-science"
+  #  url: /open-science/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
