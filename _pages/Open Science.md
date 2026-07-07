@@ -1,6 +1,6 @@
 ---
 title: "Open Science"
-permalink: /research/open-science/
+permalink: /Open Science/
 author_profile: true
 ---
 
