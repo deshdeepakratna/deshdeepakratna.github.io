@@ -57,9 +57,7 @@ My long-term goal is to bridge molecular signaling, synaptic physiology, and neu
 
 ---
 
-{% include custom/featured_publications.html %}
 
----
 
 ## Current Research Directions
 
@@ -74,6 +72,6 @@ My long-term goal is to bridge molecular signaling, synaptic physiology, and neu
 
 # Selected Publications
 
-Recent publications reflecting my research in systems neuroscience, neural circuit plasticity, and computational neuroscience.
+{% include custom/featured_publications.html %}
 
-➡ **[View All Publications](/publications/)**
+---
