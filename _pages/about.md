@@ -9,9 +9,7 @@ redirect_from:
 
 ## Welcome
 
-I am a **Postdoctoral Research Fellow** in the **Francis Lab** within the Department of Psychiatry at the University of Maryland School of Medicine.
-
-My research integrates **whole-cell electrophysiology**, **systems neuroscience**, **advanced microscopy**, and **computational analysis** to understand how stress reshapes neural circuits underlying motivation, reward, and emotional behavior.
+I am a Postdoctoral Research Fellow in the Francis Laboratory within the Department of Psychiatry at the University of Maryland School of Medicine. My research seeks to understand how stress reshapes neural circuits that regulate motivation, reward, and emotional behavior through changes in synaptic function and neuronal excitability.
 
 My long-term goal is to identify the cellular and synaptic mechanisms that contribute to stress-related neuropsychiatric disorders and to develop reproducible computational tools that accelerate neuroscience research.
 
