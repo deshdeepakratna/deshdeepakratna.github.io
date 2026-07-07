@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 Postdoctoral Research Fellow
-
 Francis Laboratory
-
 University of Maryland School of Medicine
 
 ## Research Overview 
@@ -36,11 +34,8 @@ My long-term goal is to identify the cellular and synaptic mechanisms that contr
 **Postdoctoral Research Fellow**
 
 Francis Laboratory
-
 Department of Psychiatry
-
 University of Maryland School of Medicine
-
 Baltimore, Maryland, USA
 
 ---
