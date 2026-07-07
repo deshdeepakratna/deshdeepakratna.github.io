@@ -19,54 +19,72 @@
 ========================================== */
 
 .gif-gallery {
+
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 24px;
-    margin: 2rem 0;
+
+    grid-template-columns: repeat(3, 1fr);
+
+    gap: 18px;
+
+    max-width: 850px;
+
+    margin: 2rem auto;
+
 }
 
 .gif-card {
+
     margin: 0;
-    text-align: center;
+
 }
 
 .gif-card img {
+
     width: 100%;
-    aspect-ratio: 4 / 3;
+
+    height: 150px;
+
     object-fit: cover;
 
-    padding: 6px;
-    background: #fafafa;
+    border-radius: 6px;
 
-    border-radius: 8px;
+    transition: .2s;
 
-    transition: transform 0.2s ease,
-        box-shadow 0.2s ease;
 }
 
 .gif-card img:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, .08);
+
+    transform: scale(1.03);
+
 }
 
 .gif-card figcaption {
-    margin-top: 0.75rem;
-    font-size: 0.95rem;
-    font-weight: 500;
-    line-height: 1.4;
-    color: #555;
+
+    margin-top: 8px;
+
+    font-size: .85rem;
+
+    color: #666;
+
 }
 
-
-/* ==========================================
-   Mobile
-========================================== */
 
 @media (max-width:900px) {
 
     .gif-gallery {
+
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+
+}
+
+@media (max-width:600px) {
+
+    .gif-gallery {
+
         grid-template-columns: 1fr;
-        gap: 20px;
+
     }
 
 }
