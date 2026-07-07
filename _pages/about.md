@@ -68,33 +68,6 @@ My long-term goal is to bridge molecular signaling, synaptic physiology, and neu
 
 ---
 
-# Featured Research
-
-## 🧠 [Neural Circuit Plasticity](/research/neural-circuit-plasticity/)
-
-Understanding how stressful experiences remodel basal ganglia circuits and influence motivated behavior.
-
-➡ **[Explore Research](/research/neural-circuit-plasticity/)**
-
----
-
-## ⚡ [Synaptic Physiology](/research/synaptic-physiology/)
-
-Investigating how neuronal excitability and synaptic transmission change following stress.
-
-➡ **[Explore Research](/research/synaptic-physiology/)**
-
----
-
-## 💻 [Open & Computational Neuroscience](/research/open-science/)
-
-Developing reproducible computational workflows and open-source tools for modern neuroscience.
-
-➡ **[Explore Research](/research/open-science/)**
-
-
----
-
 # Selected Publications
 
 Recent publications reflecting my research in systems neuroscience, neural circuit plasticity, and computational neuroscience.
