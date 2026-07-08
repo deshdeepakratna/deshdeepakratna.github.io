@@ -89,4 +89,30 @@
 
     }
 
+    /* ==========================================
+   Publications
+========================================== */
+
+    .pub-list {
+        list-style: none;
+        padding-left: 0;
+        margin: 1.5rem 0;
+    }
+
+    .pub-list li {
+        margin-bottom: 1.5rem;
+        line-height: 1.6;
+    }
+
+    .pub-list strong {
+        font-weight: 600;
+    }
+
+    .pub-list small {
+        color: #666;
+        font-size: 0.9rem;
+    }
+
+
+
 }
