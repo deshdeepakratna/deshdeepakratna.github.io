@@ -2,36 +2,57 @@
 title: "Resources"
 permalink: /resources/
 author_profile: true
+published: false
 ---
 
-A collection of laboratory resources, tutorials, and computational workflows for neuroscience research.
-
----
-
-## Experimental Protocols
-
-Whole-cell electrophysiology
-
-Fiber photometry
-
-Confocal microscopy
+This page is a curated collection of protocols, software, tutorials, scientific reading, and practical resources that I have found useful for neuroscience research. It is intended to serve as a living resource and will continue to grow over time.
 
 ---
 
-## Analysis Tutorials
+# Experimental Methods
 
-Python
+Explore practical guides, protocols, and recommended resources for experimental neuroscience.
 
-ImageJ
-
-GraphPad Prism
+- 🧠 [Behavioral Neuroscience](/resources/behavior/)
+- ⚡ [Electrophysiology](/resources/electrophysiology/)
+- 📈 [Fiber Photometry](/resources/photometry/)
+- 🔬 [Imaging & Histology](/resources/imaging/)
 
 ---
 
-## Educational Material
+# Computational Tools
 
-Recommended papers
+Resources for data analysis, reproducible workflows, and scientific programming.
 
-Tutorials
+- 🐍 [Python](/resources/python/)
+- 🖼️ [ImageJ / Fiji](/resources/imagej/)
+- 🔧 [Bonsai](/resources/bonsai/)
+- 🐭 [DeepLabCut](/resources/deeplabcut/)
+- 🎥 [Keypoint MoSeq](/resources/moseq/)
 
-Laboratory notes
+---
+
+# Scientific Writing & Data Analysis
+
+Helpful references for scientific communication and statistical analysis.
+
+- 📊 [Statistics](/resources/statistics/)
+- ✍️ [Scientific Writing](/resources/writing/)
+
+---
+
+# Reading Resources
+
+Recommended reviews, books, and educational material.
+
+- 📚 [Review Articles](/resources/reviews/)
+- 📖 [Books](/resources/books/)
+
+---
+
+# Open Science
+
+Useful repositories, software, and community resources.
+
+- 💻 [GitHub Resources](/resources/github/)
+- 📂 [Protocols & Methods](/resources/protocols/)
