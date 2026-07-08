@@ -1,19 +1,14 @@
 ---
 permalink: /
-title: "Desh Deepak Ratna, Ph.D."
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Postdoctoral Research Fellow<br>
-Francis Laboratory<br>
-University of Maryland School of Medicine
 
 
-
-
- --Understanding how stress reshapes neural circuits and behavior--
+ ## Understanding how stress neural circuits underlying motivation, reward, and emotional behavior.
 
 
 
