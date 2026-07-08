@@ -2,7 +2,7 @@
 title: "Resources"
 permalink: /resources/
 author_profile: true
-published: false
+published: true
 ---
 
 This page is a curated collection of protocols, software, tutorials, scientific reading, and practical resources that I have found useful for neuroscience research. It is intended to serve as a living resource and will continue to grow over time.
