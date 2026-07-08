@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
 ## Understanding how stress neural circuits underlying motivation, reward, and emotional behavior.
 
 
@@ -47,7 +46,7 @@ My work combines electrophysiology, fiber photometry, behavioral neuroscience, v
         Cue-Dependent Fear Learning Drives Nucleus Accumbens Spine Plasticity
       </a>
     </strong><br>
-    DD Ratna, C Gray, E Lee, H Kiaris, M Hamilton, TC Francis<br>
+    D Ratna, C Gray, E Lee, H Kiaris, M Hamilton, TC Francis<br>
     <small><em>bioRxiv</em>, 2026</small>
   </li>
 
@@ -57,7 +56,7 @@ My work combines electrophysiology, fiber photometry, behavioral neuroscience, v
         Extrinsic and Intrinsic Control of Striatal Cholinergic Interneuron Activity
       </a>
     </strong><br>
-    DD Ratna, TC Francis<br>
+    D Ratna, TC Francis<br>
     <small><em>Frontiers in Molecular Neuroscience</em>, 18:1528419 (2025)</small>
   </li>
 
