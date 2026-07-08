@@ -2,27 +2,29 @@
 title: "Resources"
 permalink: /resources/
 author_profile: true
-published: true
+published: false
 ---
 
 This page is a curated collection of protocols, software, tutorials, scientific reading, and practical resources that I have found useful for neuroscience research. It is intended to serve as a living resource and will continue to grow over time.
 
 ---
 
-# Experimental Methods
-
-Explore practical guides, protocols, and recommended resources for experimental neuroscience.
+## Experimental Methods
+<!-->
+<details>
+<summary><strong>Experimental Methods</strong></summary>
 
 - 🧠 [Behavioral Neuroscience](/resources/behavior/)
 - ⚡ [Electrophysiology](/resources/electrophysiology/)
 - 📈 [Fiber Photometry](/resources/photometry/)
 - 🔬 [Imaging & Histology](/resources/imaging/)
 
+</details>
+
 ---
 
-# Computational Tools
-
-Resources for data analysis, reproducible workflows, and scientific programming.
+<details>
+<summary><strong>Computational Tools</strong></summary>
 
 - 🐍 [Python](/resources/python/)
 - 🖼️ [ImageJ / Fiji](/resources/imagej/)
@@ -30,29 +32,36 @@ Resources for data analysis, reproducible workflows, and scientific programming.
 - 🐭 [DeepLabCut](/resources/deeplabcut/)
 - 🎥 [Keypoint MoSeq](/resources/moseq/)
 
+</details>
+
 ---
 
-# Scientific Writing & Data Analysis
-
-Helpful references for scientific communication and statistical analysis.
+<details>
+<summary><strong>Scientific Writing & Data Analysis</strong></summary>
 
 - 📊 [Statistics](/resources/statistics/)
 - ✍️ [Scientific Writing](/resources/writing/)
 
+</details>
+
 ---
 
-# Reading Resources
-
-Recommended reviews, books, and educational material.
+<details>
+<summary><strong>Reading Resources</strong></summary>
 
 - 📚 [Review Articles](/resources/reviews/)
 - 📖 [Books](/resources/books/)
 
+</details>
+
 ---
 
-# Open Science
-
-Useful repositories, software, and community resources.
+<details>
+<summary><strong>Open Science</strong></summary>
 
 - 💻 [GitHub Resources](/resources/github/)
 - 📂 [Protocols & Methods](/resources/protocols/)
+
+</details>
+
+-->
